@@ -1,0 +1,4 @@
+The dataset is a kaggle dataset by ANDRADA OLTEANU.
+The link to download it is given below:
+
+https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
